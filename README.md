@@ -51,6 +51,17 @@
  I would like to add the site's address and title to bookmark manager 
  ```
 
+## User Story 3
+
+ ```
+ As a user
+ So I can store bookmark data for later retrieval
+ I want to add a bookmark to Bookmark Manager 
+ ```
+
+
+
+
 
  ## Domain Model
 
