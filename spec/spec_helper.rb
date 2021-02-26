@@ -1,5 +1,4 @@
-ENV['RACK_ENV'] = 'test'
-
+# ENV['RACK_ENV'] = 'test'
 require 'setup_test_database'
 
 ENV['ENVIRONMENT'] = 'test'
